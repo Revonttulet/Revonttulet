@@ -1,5 +1,5 @@
 # Hi, It's me, Revonttulet :wolf:
-<p>I'm Yvonne, Developer Analyst from who focuses on inclusive design and accessible experience <img src="https://cdn-icons-png.flaticon.com/512/630/630623.png" width="13"/> <b>Asuncion, Paraguay</b>]
+<p>I'm Yvonne, Developer Analyst from <img src="https://cdn-icons-png.flaticon.com/512/630/630623.png" width="13"/> <b>Asuncion, Paraguay</b> who focuses on inclusive design and accessible experience..
 
 </p>
 <div id="header" align="center">
