@@ -1,5 +1,7 @@
 # Hi, It's me, Revonttulet :wolf:
-<p>I'm Yvonne, Analyst Developer from <img src="https://cdn-icons-png.flaticon.com/512/630/630623.png" width="13"/> <b>Asuncion, Paraguay</b></p>
+<p>I'm Yvonne, Developer Analyst from who focuses on inclusive design and accessible experience <img src="https://cdn-icons-png.flaticon.com/512/630/630623.png" width="13"/> <b>Asuncion, Paraguay</b>]
+
+</p>
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/VBc6l3CqQonqo/giphy.gif" widht="100"/>
 </div>
@@ -55,6 +57,4 @@
 >“It’s not always possible to do what we want to do, but it’s important to believe in something before you actually do it.”  
 >
 -Might Guy (Naruto)  
-
-
 
