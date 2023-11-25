@@ -1,5 +1,5 @@
 # Hi, It's me, Revonttulet :wolf:
-<p>I'm Yvonne, Developer Analyst from <img src="https://cdn-icons-png.flaticon.com/512/630/630623.png" width="13"/> <b>Asuncion, Paraguay</b> who focuses on inclusive design and accessible experience..
+<p>I'm Yvonne, Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/630/630623.png" width="13"/> <b>Asuncion, Paraguay</b>, specializing in modern application development. I bring expertise in cutting-edge technologies, particularly within the banking sector. My skill set includes efficient coding, the design of scalable architectures, and a strong commitment to crafting intuitive user experiences.
 
 </p>
 <div id="header" align="center">
